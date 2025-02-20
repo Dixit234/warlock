@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello
-=======
-1010101
->>>>>>> lock1
+change main branch after lock branch
